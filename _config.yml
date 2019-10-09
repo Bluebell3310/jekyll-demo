@@ -6,13 +6,13 @@ title: 'Jekyll Serif'
 collections:
   services:
     output: true
-    permalink: /services/:path/
+    permalink: ./services/:path/
   team:
     output: true
-    permalink: /team/:path/
+    permalink: ./team/:path/
   testimonials:
     output: true
-    permalink: /testimonials/:path/
+    permalink: ./testimonials/:path/
 
 defaults:
   - scope:
