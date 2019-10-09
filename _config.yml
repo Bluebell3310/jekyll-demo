@@ -1,5 +1,5 @@
 url: https://bluebell3310.github.io
-baseurl: ''
+baseurl: '.'
 exclude: ['README.md']
 permalink: pretty
 title: 'Jekyll Serif'
