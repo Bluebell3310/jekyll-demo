@@ -1,9 +1,8 @@
 ---
-title: 'Sage Kirk'
-image: '/images/team/sage-kirk-485982-unsplash.jpg'
-jobtitle: 'Accountant'
-email: 'sage@test.com'
-linkedinurl: ''
+title: 又是一顆土豆
+image: /images/team/sage-kirk-485982-unsplash.jpg
+jobtitle: Accountant
+email: sage@test.com
+published: true
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+又是一顆路過的土豆
