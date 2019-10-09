@@ -1,7 +1,7 @@
 ---
-title: Potato
+title: Potato lol
 image: /images/team/peter-van-eijk-711986-unsplash.jpg
-jobtitle: Director
+jobtitle: boss
 email: peter@test.com
 linkedinurl: 'https://www.linkedin.com/'
 published: true
