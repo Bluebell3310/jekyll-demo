@@ -1,4 +1,5 @@
-baseurl: '.'
+url: https://bluebell3310.github.io
+baseurl: ''
 exclude: ['README.md']
 permalink: pretty
 title: 'Jekyll Serif'
@@ -6,13 +7,13 @@ title: 'Jekyll Serif'
 collections:
   services:
     output: true
-    permalink: ./services/:path/
+    permalink: /services/:path/
   team:
     output: true
-    permalink: ./team/:path/
+    permalink: /team/:path/
   testimonials:
     output: true
-    permalink: ./testimonials/:path/
+    permalink: /testimonials/:path/
 
 defaults:
   - scope:
