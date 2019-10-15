@@ -1,18 +1,18 @@
 .page-home {
-  background-image: url('../images/Dragon_Boat_Fes_SIRLA_LOGO_300.png');
+  background-image: url('../images/SIRLA_Logo_Dragon_Boat_Fes.svg');
   background-repeat: no-repeat;
   background-size: 115%;
   background-position: 49px -40px;
   @include media-breakpoint-up(sm) {
-    background-size: 60%;
+    background-size: 70%;
     background-position: 159px -40px;
   }
   @include media-breakpoint-up(md) {
-    background-size: 40%;
+    background-size: 50%;
     background-position: 100% -50px;
   }
   @include media-breakpoint-up(lg) {
-    background-size: 30%;
+    background-size: 40%;
     background-position: 100% -70px;
   }
   .call {
