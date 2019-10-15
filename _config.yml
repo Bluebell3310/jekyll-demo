@@ -1,7 +1,7 @@
 baseurl: '/jekyll-demo'
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'SIRLA'
 
 collections:
   services:
